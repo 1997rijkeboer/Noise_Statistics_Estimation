@@ -3,6 +3,11 @@
 This repository contains all MATLAB scripts and files related to our work on estimating noise statistics in a room to increase intelligibility of speech in the presence of non-fluctuating noise, fluctuating noise, speech shaped noise, and competing speaker noise. The work is available at [TU Delft Repository](http://resolver.tudelft.nl/uuid:9011b256-576e-48e1-85db-e8bb9eeb6b88) with accompanying information for referencing this document.
 
 ![MC0%2C10%2C72](https://user-images.githubusercontent.com/25173878/115594876-8d2a6900-a2d6-11eb-92a6-e4527ebf146f.png)
+> **Figure 4.4:**: A Monte Carlo simulation of the normalized LMS with \mu = 0.1 and M = 33 and traditional LMS filter \mu = 0.72 and M = 33. The
+upper graph plots the squared error against iterations of the algorithm. The lower graph plots the deviation of the error signal from the
+real noise signal, against iterations.
+
+
 
 ## Abstract
 
